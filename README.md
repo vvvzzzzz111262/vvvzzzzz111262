@@ -14,7 +14,7 @@
 
 ### 📕 My Socials
 
--[website]: https://www.vortexdev.tk
+- website: https://www.vortexdev.tk
 
 ## Languages and Tools:
 
