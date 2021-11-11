@@ -12,9 +12,9 @@
 
 ---
 
-### 📕 My Socials
+### 📕 My Website
 
-- website: https://www.vortexdev.tk
+- https://www.vortexdev.tk
 
 ## Languages and Tools:
 
